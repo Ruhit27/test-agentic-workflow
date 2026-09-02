@@ -21,3 +21,7 @@ Just open `index.html` in a browser. That's it.
 ## Author
 
 RUHIT
+
+## Master
+
+BOOM DADA
