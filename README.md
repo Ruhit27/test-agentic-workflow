@@ -24,4 +24,4 @@ RUHIT
 
 ## Master
 
-BOOM DADA
+BOOM DADA NAME Small lvoerstorage
