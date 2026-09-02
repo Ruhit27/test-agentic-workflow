@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Snake</title>
+  <link rel="stylesheet" href="style.css" />
+  <link rel="stylesheet" href="snake.css" />
+</head>
+<body>
+  <main class="snake-page">
+    <div class="page-nav"><a href="index.html">← Back to Todo</a></div>
+    <h1>Snake</h1>
+    <div class="snake-score">Score: <span id="score">0</span></div>
+    <div class="snake-screen">
+      <canvas id="snake-canvas" width="400" height="400"></canvas>
+      <div id="snake-overlay" class="snake-overlay">
+        <p>Press an arrow key to start</p>
+      </div>
+    </div>
+    <p class="snake-hint">Use arrow keys to move. Space to restart after game over.</p>
+  </main>
+  <script src="snake.js"></script>
+</body>
+</html>
