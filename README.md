@@ -17,3 +17,7 @@ Just open `index.html` in a browser. That's it.
 - Mark a todo done/undone
 - Delete a todo
 - Play a classic snake game
+
+## Author
+
+RUHIT
